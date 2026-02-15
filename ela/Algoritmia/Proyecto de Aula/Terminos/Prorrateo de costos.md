@@ -1,0 +1,1 @@
+El prorrateo de costos es la ==distribución proporcional de gastos indirectos (luz, alquiler, supervisión) entre departamentos, productos o servicios, asegurando un reparto justo basado en criterios como uso, metros cuadrados o mano de obra==. Es fundamental en contabilidad para conocer el costo unitario real y mejorar la rentabilidad.

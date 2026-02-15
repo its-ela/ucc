@@ -1,0 +1,1 @@
+A Product Backlog Item (PBI) is a single, prioritized unit of work in Agile/Scrum—such as a feature, user story, bug fix, or technical spike, representing a functional or non-functional requirement to improve the product. PBIs are ordered by value, refined for clarity, and sized to fit within a sprint.
